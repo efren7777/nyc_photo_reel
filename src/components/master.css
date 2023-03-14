@@ -1,6 +1,7 @@
 .banner {
   max-width: 40%;
   max-height: 10%;
+  border-radius: 20%;
 }
 
 .flex-container {
@@ -29,4 +30,5 @@ img {
 .reel_img {
   max-width: 50%;
   max-height: 10%;
+  border-radius: 30%;
 }
